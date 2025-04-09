@@ -6,7 +6,7 @@
 - [缩小类型范围](narrowing.md)
 - [函数进阶](more-on-functions.md)
 - [对象类型](object-types.md)
-- 类型操纵
+- [类型操纵](type-manipulation/_creating-types-from-types.md)
   - [用现有类型创建新类型](type-manipulation/_creating-types-from-types.md)
   - [泛型](type-manipulation/generics.md)
   - [keyof 类型运算符](type-manipulation/keyof-type-operator.md)

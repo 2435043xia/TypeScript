@@ -409,7 +409,7 @@ interface Uint8Array<TArrayBuffer extends ArrayBufferLike = ArrayBufferLike> {
 
 现在每个 TypedArray 都包含一个名为 `TArrayBuffer` 的类型参数，虽然该类型参数有默认的类型参数，这样用户可以继续使用 `Int32Array`，而不需要显式地写出 `Int32Array<ArrayBufferLike>`。
 
-如果在更新过程中遇到如下错误：
+如果在更新过程中遇到如下错误： 
 
 ```ts
 error TS2322: Type 'Buffer' is not assignable to type 'Uint8Array<ArrayBufferLike>'.
@@ -420,7 +420,7 @@ error TS2345: Argument of type 'Buffer' is not assignable to parameter of type '
 
 那么，您可能需要更新 `@types/node`。
 
-您可以在[ GitHub 上阅读有关此更改的具体内容](https://github.com/microsoft/TypeScript/pull/59417)。
+您可以在[GitHub 上阅读有关此更改的具体内容](https://github.com/microsoft/TypeScript/pull/59417)。
 
 ### 在类中使用非字面量方法名创建索引签名
 

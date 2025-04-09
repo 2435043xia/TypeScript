@@ -47,10 +47,25 @@
   - [类型推论](zh/reference/type-inference.md)
   - [变量声明](zh/reference/variable-declarations.md)
 
-# 手册（v2）
+# 手册 v2
 
-- [手册（v2）](zh/handbook-v2/README.md)
-  - [模版字面量类型](zh/handbook-v2/type-manipulation/template-literal-types.md)
+- [TypeScript 手册](zh/handbook-v2/the-handbook.md)
+  - [基础](zh/handbook-v2/basics.md)
+  - [常见类型](zh/handbook-v2/everyday-types.md)
+  - [缩小类型范围](zh/handbook-v2/narrowing.md)
+  - [函数进阶](zh/handbook-v2/more-on-functions.md)
+  - [对象类型](zh/handbook-v2/object-types.md)
+  - [类型操纵](zh/handbook-v2/type-manipulation/_creating-types-from-types.md)
+    - [用现有类型创建新类型](zh/handbook-v2/type-manipulation/_creating-types-from-types.md)
+    - [泛型](zh/handbook-v2/type-manipulation/generics.md)
+    - [keyof 类型运算符](zh/handbook-v2/type-manipulation/keyof-type-operator.md)
+    - [typeof 类型运算符](zh/handbook-v2/type-manipulation/typeof-type-operator.md)
+    - [索引访问类型](zh/handbook-v2/type-manipulation/indexed-access-types.md)
+    - [条件类型](zh/handbook-v2/type-manipulation/conditional-types.md)
+    - [映射类型](zh/handbook-v2/type-manipulation/mapped-types.md)
+    - [模版字面量类型](zh/handbook-v2/type-manipulation/template-literal-types.md)
+  - [类](zh/handbook-v2/classes.md)
+  - [模块](zh/handbook-v2/modules.md)
 
 # TypeScript 声明文件（.d.ts）
 
