@@ -47,7 +47,7 @@
   - [类型推论](zh/reference/type-inference.md)
   - [变量声明](zh/reference/variable-declarations.md)
 
-# 手册 v2
+# 手册（v2）
 
 - [TypeScript 手册](zh/handbook-v2/the-handbook.md)
   - [基础](zh/handbook-v2/basics.md)

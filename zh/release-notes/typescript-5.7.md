@@ -409,7 +409,7 @@ interface Uint8Array<TArrayBuffer extends ArrayBufferLike = ArrayBufferLike> {
 
 现在每个 TypedArray 都包含一个名为 `TArrayBuffer` 的类型参数，虽然该类型参数有默认的类型参数，这样用户可以继续使用 `Int32Array`，而不需要显式地写出 `Int32Array<ArrayBufferLike>`。
 
-如果在更新过程中遇到如下错误： 
+如果在更新过程中遇到如下错误：
 
 ```ts
 error TS2322: Type 'Buffer' is not assignable to type 'Uint8Array<ArrayBufferLike>'.
