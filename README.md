@@ -9,6 +9,7 @@
 因此现将所有文档整理发布为**图书**样式。希望大家能够喜欢!
 
 线上阅读地址：[https://zhongsp.github.io/TypeScript](https://zhongsp.github.io/TypeScript)
+[https://2435043xia.github.io/TypeScript](https://2435043xia.github.io/TypeScript)
 
 ---
 
